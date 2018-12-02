@@ -7,4 +7,4 @@ markdowns: headers in the beginnning of the program
 
 
 collaborators: 
-- Jessie Roux and Katherine Hansen, plus an online source for the syntax of case statements 
+- Jessie Roux and Katherine Hansen, plus an online source for the syntax of case statements (askubuntu).  
