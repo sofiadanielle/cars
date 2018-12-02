@@ -4,3 +4,7 @@ This program takes the user input of year, make and model of a car and appends i
 
 markdowns: headers in the beginnning of the program
 - list: for the options 
+
+
+collaborators: 
+- Jessie Roux and Katherine Hansen, plus an online source for the syntax of case statements 
